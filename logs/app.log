@@ -1,0 +1,6 @@
+2025-03-25 10:57:42,758 - ERROR - 'model_name' is missing in the request!
+2025-03-25 10:58:30,221 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-03-25 10:58:30,233 - INFO - Generated response for: Samsung Galaxy Z Fold 7
+2025-03-25 11:00:38,265 - INFO - Logging is correctly set up!
+2025-03-25 11:00:38,265 - INFO - Cache File Location: cache/device_cache.json
+2025-03-25 11:00:38,265 - INFO - Server running on 127.0.0.1:8000
